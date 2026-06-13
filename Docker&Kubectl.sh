@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 #................Jenkines Installation.........................
 # 1. Install Java (Jenkins requires Java)
